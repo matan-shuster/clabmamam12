@@ -1,0 +1,3 @@
+N is 4
+Please enter the matrix with a maximum length of 16: 
+Invalid input,non integer has been entered

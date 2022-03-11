@@ -1,0 +1,8 @@
+N is 4
+Please enter the matrix with a maximum length of 16: 
+The matrix is
+20 6 7 17 
+9 15 14 12 
+13 11 10 16 
+8 18 19 5 
+The matrix is a basic magic square
